@@ -1,0 +1,140 @@
+Gender,Age,Course,Current Year of study,CGPA,Marital status,Do you have Depression?,Do you have Anxiety?,Do you have Panic attack?,Did you seek any specialist for a treatment?
+Female,18,Engineering,Year 1,3.00 - 3.49,No,Yes,No,Yes,No
+Male,19,IT,Year 1,3.00 - 3.49,No,Yes,Yes,Yes,No
+Female,18,Computer Science,Year 1,3.50 - 4.00,No,No,Yes,No,No
+Male,18,IT,Year 1,3.50 - 4.00,No,No,Yes,Yes,No
+Female,20,Psychology,Year 1,3.50 - 4.00,No,No,No,No,No
+Female,18,Computer Science,Year 1,3.00 - 3.49,No,Yes,No,No,No
+Male,19,Engineering,Year 1,3.00 - 3.49,No,No,No,No,No
+Female,19,Engineering,Year 1,3.00 - 3.49,No,No,No,Yes,No
+Female,18,Computer Science,Year 1,3.50 - 4.00,No,No,No,No,No
+Female,17,Engineering,Year 1,3.00 - 3.49,No,No,No,No,No
+Female,18,Banking Studies,Year 1,3.50 - 4.00,No,No,No,No,No
+Female,19,Engineering,Year 1,3.50 - 4.00,No,No,No,No,No
+Male,19,Computer Science,Year 1,3.50 - 4.00,No,No,No,Yes,No
+Female,19,IT,Year 1,3.00 - 3.49,No,Yes,Yes,Yes,No
+Female,18,Engineering,Year 1,2.00 - 2.49,No,No,No,No,No
+Female,19,IT,Year 1,2.50 - 2.99,No,Yes,Yes,Yes,No
+Male,20,IT,Year 1,0 - 1.99,No,No,No,No,No
+Male,18,Computer Science,Year 1,3.50 - 4.00,No,No,Yes,Yes,No
+Female,19,Engineering,Year 1,3.50 - 4.00,No,No,Yes,No,No
+Female,19,Computer Science,Year 1,3.50 - 4.00,No,Yes,No,Yes,Yes
+Male,18,Computer Science,Year 1,3.00 - 3.49,No,No,No,No,No
+Female,18,Computer Science,Year 1,3.50 - 4.00,No,No,No,No,No
+Female,19,Computer Science,Year 1,3.50 - 4.00,No,No,No,No,No
+Female,18,Engineering,Year 1,3.50 - 4.00,No,No,No,Yes,No
+Female,17,Engineering,Year 1,3.50 - 4.00,No,No,No,No,No
+Female,18,Engineering,Year 1,3.50 - 4.00,No,Yes,Yes,No,No
+Female,17,Biomedical science,Year 1,3.00 - 3.49,No,No,No,No,No
+Male,19,Biomedical science,Year 1,0 - 1.99,No,No,No,No,No
+Female,17,Engineering,Year 1,3.00 - 3.49,No,Yes,No,No,No
+Female,19,Engineering,Year 1,3.00 - 3.49,No,Yes,Yes,No,No
+Male,19,Psychology,Year 1,3.00 - 3.49,No,No,No,No,No
+Female,20,Psychology,Year 2,3.50 - 4.00,No,Yes,Yes,No,Yes
+Female,18,Psychology,Year 1,3.50 - 4.00,No,Yes,Yes,Yes,No
+Male,18,IT,Year 1,3.00 - 3.49,No,No,Yes,No,No
+Female,19,Computer Science,Year 1,3.50 - 4.00,No,No,Yes,No,No
+Male,20,Engineering,Year 2,3.50 - 4.00,No,No,No,Yes,No
+Female,19,Human Resources,Year 2,2.50 - 2.99,No,No,No,No,No
+Female,20,IT,Year 2,3.50 - 4.00,No,No,Yes,No,No
+Female,20,Human Resources,Year 2,3.50 - 4.00,Yes,Yes,Yes,Yes,No
+Male,18,Engineering,Year 2,3.00 - 3.49,Yes,Yes,Yes,No,No
+Female,23,Business Administration,Year 2,3.00 - 3.49,No,No,No,No,No
+Male,18,Computer Science,Year 2,3.00 - 3.49,No,No,No,No,No
+Male,19,Computer Science,Year 2,3.50 - 4.00,Yes,Yes,Yes,No,Yes
+Female,24,Engineering,Year 2,2.50 - 2.99,Yes,Yes,No,Yes,Yes
+Male,24,Business Administration,Year 2,3.00 - 3.49,No,Yes,No,No,No
+Female,18,Computer Science,Year 2,3.50 - 4.00,No,No,Yes,No,No
+Female,22,Business Administration,Year 1,3.00 - 3.49,No,No,No,Yes,No
+Female,24,Business Administration,Year 2,3.50 - 4.00,Yes,Yes,Yes,Yes,No
+Female,21,Biomedical science,Year 2,3.50 - 4.00,No,No,No,No,No
+Male,21,Engineering,Year 2,2.00 - 2.49,No,No,No,Yes,No
+Male,20,Engineering,Year 2,3.00 - 3.49,No,Yes,Yes,No,No
+Male,20,Biomedical science,Year 2,3.00 - 3.49,No,No,No,No,No
+Female,22,Law,Year 3,3.00 - 3.49,Yes,Yes,No,No,No
+Female,24,Engineering,Year 4,3.50 - 4.00,Yes,Yes,No,No,No
+Male,24,Computer Science,Year 4,3.50 - 4.00,No,No,No,No,No
+Female,23,Law,Year 3,3.00 - 3.49,No,No,No,No,No
+Female,23,Computer Science,Year 3,3.50 - 4.00,No,Yes,Yes,Yes,No
+Female,22,IT,Year 3,3.50 - 4.00,Yes,Yes,Yes,Yes,Yes
+Female,21,Law,Year 3,3.00 - 3.49,No,Yes,Yes,No,No
+Female,21,IT,Year 3,3.00 - 3.49,No,No,Yes,No,No
+Female,24,Computer Science,Year 3,3.50 - 4.00,No,No,No,Yes,No
+Female,21,Biomedical science,Year 3,3.00 - 3.49,No,No,No,No,No
+Female,20,IT,Year 3,3.00 - 3.49,No,No,No,Yes,No
+Female,21,Law,Year 3,3.50 - 4.00,No,No,No,Yes,No
+Female,22,IT,Year 3,3.00 - 3.49,Yes,Yes,No,No,No
+Male,21,IT,Year 3,3.50 - 4.00,No,No,Yes,No,No
+Female,22,Law,Year 3,0 - 1.99,No,No,No,No,No
+Female,21,Business Administration,Year 3,3.50 - 4.00,Yes,Yes,No,Yes,No
+Male,23,Engineering,Year 4,3.00 - 3.49,No,No,No,No,No
+Female,24,Computer Science,Year 4,3.50 - 4.00,No,No,No,No,No
+Female,22,Engineering,Year 4,3.50 - 4.00,No,No,No,No,No
+Female,21,Engineering,Year 4,3.50 - 4.00,No,No,No,No,No
+Female,23,Engineering,Year 4,3.50 - 4.00,No,No,No,No,No
+Female,18,Engineering,Year 1,3.00 - 3.49,No,Yes,No,Yes,No
+ Male,19,IT,Year 1,3.00 - 3.49,No,Yes,Yes,Yes,No
+ Female,18,Computer Science,Year 1,3.50 - 4.00,No,No,Yes,No,No
+ Male,18,IT,Year 1,3.50 - 4.00,No,No,Yes,Yes,No
+ Female,20,Psychology,Year 1,3.50 - 4.00,No,No,No,No,No
+ Female,18,Computer Science,Year 1,3.00 - 3.49,No,Yes,No,No,No
+ Male,19,Engineering,Year 1,3.00 - 3.49,No,No,No,No,No
+ Female,19,Engineering,Year 1,3.00 - 3.49,No,No,No,Yes,No
+ Female,18,Computer Science,Year 1,3.50 - 4.00,No,No,No,No,No
+ Female,17,Engineering,Year 1,3.00 - 3.49,No,No,No,No,No
+ Female,18,Banking Studies,Year 1,3.50 - 4.00,No,No,No,No,No
+ Female,19,Engineering,Year 1,3.50 - 4.00,No,No,No,No,No
+ Male,19,Computer Science,Year 1,3.50 - 4.00,No,No,No,Yes,No
+ Female,19,IT,Year 1,3.00 - 3.49,No,Yes,Yes,Yes,No
+ Female,18,Engineering,Year 1,2.00 - 2.49,No,No,No,No,No
+ Female,19,IT,Year 1,2.50 - 2.99,No,Yes,Yes,Yes,No
+ Male,20,IT,Year 1,0 - 1.99,No,No,No,No,No
+ Male,18,Computer Science,Year 1,3.50 - 4.00,No,No,Yes,Yes,No
+ Female,19,Engineering,Year 1,3.50 - 4.00,No,No,Yes,No,No
+ Female,19,Computer Science,Year 1,3.50 - 4.00,No,Yes,No,Yes,Yes
+ Male,18,Computer Science,Year 1,3.00 - 3.49,No,No,No,No,No
+ Female,18,Computer Science,Year 1,3.50 - 4.00,No,No,No,No,No
+ Female,19,Computer Science,Year 1,3.50 - 4.00,No,No,No,No,No
+ Female,18,Engineering,Year 1,3.50 - 4.00,No,No,No,Yes,No
+ Female,17,Engineering,Year 1,3.50 - 4.00,No,No,No,No,No
+ Female,18,Engineering,Year 1,3.50 - 4.00,No,Yes,Yes,No,No
+ Female,17,Biomedical Science,Year 1,3.00 - 3.49,No,No,No,No,No
+ Male,19,Biomedical Science,Year 1,0 - 1.99,No,No,No,No,No
+ Female,17,Engineering,Year 1,3.00 - 3.49,No,Yes,No,No,No
+ Female,19,Engineering,Year 1,3.00 - 3.49,No,Yes,Yes,No,No
+ Male,19,Psychology,Year 1,3.00 - 3.49,No,No,No,No,No
+ Female,20,Psychology,Year 2,3.50 - 4.00,No,Yes,Yes,No,Yes
+ Female,18,Psychology,Year 1,3.50 - 4.00,No,Yes,Yes,Yes,No
+ Male,18,IT,Year 1,3.00 - 3.49,No,No,Yes,No,No
+ Female,19,Computer Science,Year 1,3.50 - 4.00,No,No,Yes,No,No
+ Male,20,Engineering,Year 2,3.50 - 4.00,No,No,No,Yes,No
+ Female,19,Human Resources,Year 2,2.50 - 2.99,No,No,No,No,No
+ Female,20,IT,Year 2,3.50 - 4.00,No,No,Yes,No,No
+ Female,20,Human Resources,Year 2,3.50 - 4.00,Yes,Yes,Yes,Yes,No
+ Male,18,Engineering,Year 2,3.00 - 3.49,Yes,Yes,Yes,No,No
+ Female,23,Business Administration,Year 2,3.00 - 3.49,No,No,No,No,No
+ Male,18,Computer Science,Year 2,3.00 - 3.49,No,No,No,No,No
+ Male,19,Computer Science,Year 2,3.50 - 4.00,Yes,Yes,Yes,No,Yes
+ Female,24,Engineering,Year 2,2.50 - 2.99,Yes,Yes,No,Yes,Yes
+ Male,24,Business Administration,Year 2,3.00 - 3.49,No,Yes,No,No,No
+ Female,18,Computer Science,Year 2,3.50 - 4.00,No,No,Yes,No,No
+ Female,22,Business Administration,Year 1,3.00 - 3.49,No,No,No,Yes,No
+ Female,24,Business Administration,Year 2,3.50 - 4.00,Yes,Yes,Yes,Yes,No
+ Female,21,Biomedical Science,Year 2,3.50 - 4.00,No,No,No,No,No
+ Male,21,Engineering,Year 2,2.00 - 2.49,No,No,No,Yes,No
+ Male,20,Engineering,Year 2,3.00 - 3.49,No,Yes,Yes,No,No
+ Male,20,Biomedical Science,Year 2,3.00 - 3.49,No,No,No,No,No
+ Female,22,Law,Year 3,3.00 - 3.49,Yes,Yes,No,No,No
+ Female,24,Engineering,Year 4,3.50 - 4.00,Yes,Yes,No,No,No
+ Male,24,Computer Science,Year 4,3.50 - 4.00,No,No,No,No,No
+ Female,23,Law,Year 3,3.00 - 3.49,No,No,No,No,No
+ Female,23,Computer Science,Year 3,3.50 - 4.00,No,Yes,Yes,Yes,No
+ Female,22,IT,Year 3,3.50 - 4.00,Yes,Yes,Yes,Yes,Yes
+ Female,21,Law,Year 3,3.00 - 3.49,No,Yes,Yes,No,No
+ Female,21,IT,Year 3,3.00 - 3.49,No,No,Yes,No,No
+ Female,24,Computer Science,Year 3,3.50 - 4.00,No,No,No,Yes,No
+ Female,21,Biomedical Science,Year 3,3.00 - 3.49,No,No,No,No,No
+ Female,20,IT,Year 3,3.00 - 3.49,No,No,No,Yes,No
+ Female,21,Law,Year 3,3.50 - 4.00,No,No,No,Yes,No
+ Female,22,IT,Year 3,3.00 - 3.49,Yes,Yes,No,No,No
+ Male,21,IT,Year 3,3.50 - 4.00,No,No,Yes,No,No
